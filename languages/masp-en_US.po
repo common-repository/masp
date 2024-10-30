@@ -1,0 +1,38 @@
+# MASP translation.
+# Copyright (C) 2012 MASP
+# This file is distributed under the same license as the MASP package.
+# BLAZEJ GRUSZKA <blazej.gruszka@webultd.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MASP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-04 21:31+0100\n"
+"PO-Revision-Date: 2012-08-21 09:50+0100\n"
+"Last-Translator: Blazej Gruszka <blazej.gruszka@webultd.com>\n"
+"Language-Team: blazej.gruszka@webultd.com <blazej.gruszka@webultd.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "version_requires"
+msgstr "MASP requires WordPress 3.0 or newer."
+
+msgid "do_not_have_api_key"
+msgstr "Don't have an API key? Get it here!"
+
+msgid "masp_settings"
+msgstr "MASP Settings"
+
+msgid "settings"
+msgstr "Settings"
+
+msgid "save_changes"
+msgstr "Save changes"
+
+msgid "settings_have_been_updated"
+msgstr "Your settings have been <strong>updated</strong>"
+
+msgid "api_key"
+msgstr "API Key"
